@@ -1,5 +1,3 @@
-# robotsessaim-projectrust
-
 # Jeu de Robot avec Bevy
 
 Ce projet est un jeu simple développé en Rust en utilisant la bibliothèque Bevy. Le but du jeu est d'avoir un robot qui se déplace à l'écran, collecte des étoiles et des minerais, et interagit avec des arbres (obstacles)
